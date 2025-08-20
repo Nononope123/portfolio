@@ -33,7 +33,7 @@ export function Footer() {
         </div>
 
         <div className="mt-8 pt-8 border-t border-border text-center text-muted-foreground">
-          <p>&copy; 2025 Aurelia Mendame. Tous droits réservés.</p>
+          <p>&copy; 2025 Aurelia Ntsame. Tous droits réservés.</p>
         </div>
       </div>
     </footer>

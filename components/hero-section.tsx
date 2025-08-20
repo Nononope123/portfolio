@@ -13,10 +13,9 @@ export function HeroSection() {
         <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-foreground to-primary bg-clip-text text-transparent">
           NTSAME MVE Aurelia
         </h1>
-        <h2 className="text-2xl md:text-3xl text-muted-foreground mb-8">Développeur Web & Mobile</h2>
+        <h2 className="text-2xl md:text-3xl text-muted-foreground mb-2">Développeur Web & Mobile front-end</h2>
         <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-12 leading-relaxed">
-          Passionné par la création d'expériences web modernes et intuitives. Spécialisé en React, Next.js, TypeScript
-          et développement mobile.
+          Friande de challenges, d'esprits visionnaires et créatifs.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <Button

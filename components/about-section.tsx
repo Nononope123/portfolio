@@ -12,25 +12,10 @@ export function AboutSection() {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div>
             <h3 className="text-2xl font-semibold mb-6">Développeur passionné par l'innovation</h3>
-            <p className="text-muted-foreground text-lg leading-relaxed mb-6">
-              Avec une expertise solide en développement web et mobile, je crée des solutions digitales modernes et
-              performantes. Mon approche combine créativité technique et expérience utilisateur optimale.
+            <p className="text-muted-foreground text-lg leading-relaxed">
+              Je crée des solutions digitales modernes et performantes. Mon approche combine créativité technique et expérience utilisateur optimale.
+              Je transforme vos idées en applications web et mobiles exceptionnelles.
             </p>
-            <p className="text-muted-foreground text-lg leading-relaxed mb-8">
-              Spécialisé dans l'écosystème React/Next.js et passionné par les nouvelles technologies comme l'IA
-              générative, je transforme vos idées en applications web et mobiles exceptionnelles.
-            </p>
-
-            <div className="grid grid-cols-2 gap-4">
-              <div className="text-center">
-                <div className="text-3xl font-bold text-primary">4+</div>
-                <div className="text-muted-foreground">Projets réalisés</div>
-              </div>
-              <div className="text-center">
-                <div className="text-3xl font-bold text-primary">2+</div>
-                <div className="text-muted-foreground">Années d'expérience</div>
-              </div>
-            </div>
           </div>
 
           <div className="grid grid-cols-2 gap-6">
