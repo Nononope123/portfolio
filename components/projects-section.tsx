@@ -4,8 +4,8 @@ import { ExternalLink, Github } from "lucide-react"
 
 const projects = [
   {
-    title: "K-Ventures",
-    description: "Plateforme e-commerce complète avec panier, paiement et gestion des commandes.",
+    title: "K-Venture",
+    description: "Site vitrine ",
     technologies: ["Next.js", "JavaScript", "Tailwind CSS", "Framer Motion"],
     image: "/kventure.png",
     liveUrl: "https://k-ventures.vercel.app/",
@@ -13,7 +13,7 @@ const projects = [
   },
   {
     title: "ECMAC",
-    description: "Tableau de bord interactif pour visualiser des données en temps réel.",
+    description: "Site vitrine",
     technologies: ["React", "Tailwind CSS", "JavaScript", "Framer Motion", "Next.js"],
     image: "/ecmac.png",
     liveUrl: "https://ecmac.vercel.app/",
@@ -21,7 +21,7 @@ const projects = [
   },
   {
     title: "ONMACED",
-    description: "Application mobile cross-platform pour la gestion de tâches.",
+    description: "Site vitrine",
     technologies: ["React", "TypeScript", "Tailwind CSS", "Framer Motion", "Next.js"],
     image: "/onmaced.png",
     liveUrl: "https://onmaced.vercel.app/formation-activites",
